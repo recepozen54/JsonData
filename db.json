@@ -5,7 +5,7 @@
     { "id": 3, "title": "Yeşil Hamburger" , "like" : 5 , "price" : 34.9, "imageurl" : "https://www.unileverfoodsolutions.com.tr/dam/global-ufs/mcos/TURKEY/calcmenu/recipes/TR-recipes/general/avokado-burger-somon-f%C3%BCme-ve-taze-sebzeler-ile/preview.jpg" },
     { "id": 4, "title": "Lahana Kavurması" , "like" : 1 , "price" : 50, "imageurl" : "https://www.unileverfoodsolutions.com.tr/dam/global-ufs/mcos/TURKEY/calcmenu/recipes/TR-recipes/general/lahana-kavurmas%C4%B1/main-header.jpg/jcr:content/renditions/cq5dam.thumbnail.desktop.jpeg" },
  { "id": 5, "title": "Yörük Kebabı" , "like" : 100 , "price" : 75, "imageurl" : "https://www.unileverfoodsolutions.com.tr/dam/global-ufs/mcos/turkey/receteler/t%C3%BCm-tavuk-g%C3%B6rselleri/640-640_02.jpg" },
- { "id": 6, "title": "Fırında Kök Sebze" , "like" : 10 , "price" : 10, "imageurl" : "https://www.unileverfoodsolutions.com.tr/dam/global-ufs/mcos/TURKEY/calcmenu/recipes/TR-recipes/general/f%C4%B1r%C4%B1nlanm%C4%B1%C5%9F-k%C3%B6k-sebzeler-balsamic-sirkesi-i%CC%87le/main-header.jpg/jcr:content/renditions/cq5dam.thumbnail.desktop.jpeg" },
+ { "id": 6, "title": "Fırında Kök Sebze" , "like" : 10 , "price" : 10, "imageurl" : "https://www.unileverfoodsolutions.com.tr/dam/global-ufs/mcos/TURKEY/calcmenu/recipes/TR-recipes/general/f%C4%B1r%C4%B1nlanm%C4%B1%C5%9F-k%C3%B6k-sebzeler-balsamic-sirkesi-i%CC%87le/main-header.jpg/jcr:content/renditions/cq5dam.thumbnail.desktop.jpeg" }
 
     
   ],
